@@ -1,7 +1,9 @@
+import Header from "../reptitives/Header";
+
 function Home(){
     return(
         <>
-        <h1>welcome</h1>
+        <Header title='HomePage'/>
         </>
     )
 }
