@@ -1,1 +1,22 @@
- 
+ .card{
+    width: 25%;
+    height: 50%;
+    overflow: hidden;
+    background-color: rgb(205, 252, 242);
+    border-radius: 7px;
+    box-shadow: 0 0 5px;
+    border-top: 3px solid green;
+ }
+ .card > img{
+    object-fit: contain;
+    width: 100%;
+ }
+ .card > h2{
+    margin: 5px;
+    font-size: 18px;
+ }
+ .summary{
+    margin: 5px;
+    text-align: center;
+    line-height: 25px;
+ }
