@@ -1,0 +1,38 @@
+{"data":[
+    {
+      "title":"how to be better programmer",
+      "imgUrl":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fprogramming-code-computer-screen-software-development-writing-program-code-computer_20972371.htm&psig=AOvVaw3BgaDdLFtNsYSrA3C0wnHn&ust=1740971655108000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDrjv626osDFQAAAAAdAAAAABAE",
+      "summary":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus rem explicabo sapiente, quaerat soluta deserunt praesentium magni itaque, est et voluptatum maxime unde, quasi quas fugit! Esse dolor at illum?",
+      "ReadingTime":"3 min"
+    },
+    {
+        "title":"clean code tutorial",
+        "imgUrl":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fprogramming-code-computer-screen-software-development-writing-program-code-computer_20972371.htm&psig=AOvVaw3BgaDdLFtNsYSrA3C0wnHn&ust=1740971655108000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDrjv626osDFQAAAAAdAAAAABAE",
+        "summary":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus rem explicabo sapiente, quaerat soluta deserunt praesentium magni itaque, est et voluptatum maxime unde, quasi quas fugit! Esse dolor at illum?",
+        "ReadingTime":"10 min"
+      },
+      {
+        "title":"React full course",
+        "imgUrl":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fprogramming-code-computer-screen-software-development-writing-program-code-computer_20972371.htm&psig=AOvVaw3BgaDdLFtNsYSrA3C0wnHn&ust=1740971655108000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDrjv626osDFQAAAAAdAAAAABAE",
+        "summary":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus rem explicabo sapiente, quaerat soluta deserunt praesentium magni itaque, est et voluptatum maxime unde, quasi quas fugit! Esse dolor at illum?",
+        "ReadingTime":"30 min"
+      },
+      {
+        "title":"AI role in new programing era",
+        "imgUrl":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fprogramming-code-computer-screen-software-development-writing-program-code-computer_20972371.htm&psig=AOvVaw3BgaDdLFtNsYSrA3C0wnHn&ust=1740971655108000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDrjv626osDFQAAAAAdAAAAABAE",
+        "summary":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus rem explicabo sapiente, quaerat soluta deserunt praesentium magni itaque, est et voluptatum maxime unde, quasi quas fugit! Esse dolor at illum?",
+        "ReadingTime":"8 min"
+      },
+      {
+        "title":"what are the best Plugins for React Js",
+        "imgUrl":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fprogramming-code-computer-screen-software-development-writing-program-code-computer_20972371.htm&psig=AOvVaw3BgaDdLFtNsYSrA3C0wnHn&ust=1740971655108000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDrjv626osDFQAAAAAdAAAAABAE",
+        "summary":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus rem explicabo sapiente, quaerat soluta deserunt praesentium magni itaque, est et voluptatum maxime unde, quasi quas fugit! Esse dolor at illum?",
+        "ReadingTime":"3 min"
+      },
+      {
+        "title":"All you need to know about new VScode update",
+        "imgUrl":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fprogramming-code-computer-screen-software-development-writing-program-code-computer_20972371.htm&psig=AOvVaw3BgaDdLFtNsYSrA3C0wnHn&ust=1740971655108000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDrjv626osDFQAAAAAdAAAAABAE",
+        "summary":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus rem explicabo sapiente, quaerat soluta deserunt praesentium magni itaque, est et voluptatum maxime unde, quasi quas fugit! Esse dolor at illum?",
+        "ReadingTime":"2 min"
+      }
+]}
