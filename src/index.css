@@ -17,14 +17,16 @@ code {
     monospace;
 }
 .sectionMain{
-  height: 95vh;
+  min-height: 95vh;
   padding: 10px;
   display: grid;
   grid-template-columns: repeat(4,1fr);
+  grid-template-rows: repeat(2,1fr);
   gap:10px;
 }
 @media only screen and (max-width:762px){
   .sectionMain{
     grid-template-columns: repeat(2,1fr);
+    grid-template-rows:auto;
   }
 }
