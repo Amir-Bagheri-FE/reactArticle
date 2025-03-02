@@ -1,5 +1,6 @@
  .card{
     margin: 5px;
+    padding: 5px;
     overflow: hidden;
     background-color: rgb(205, 252, 242);
     border-radius: 7px;

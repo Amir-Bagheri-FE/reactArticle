@@ -3,10 +3,10 @@ function ArticleCard(props){
     return(
         <>
         <div className={Style.card}>
-        <img src={props.imgUrl} alt="" />
-        <h2>{props.title}</h2>
-        <p className={Style.summary}>{props.summary}</p>
-        <p>{props.ReadingTime}</p>
+        <img src={props.Data.imgUrl} alt="" />
+        <h2>{props.Data.title}</h2>
+        <p className={Style.summary}>{props.Data.summary}</p>
+        <p>{props.Data.ReadingTime}</p>
         </div>
         </>
     )
