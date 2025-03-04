@@ -26,3 +26,6 @@
     line-height: 13px;
     font-size: small;
  }
+ .card >a{
+   text-decoration: none;
+ }
