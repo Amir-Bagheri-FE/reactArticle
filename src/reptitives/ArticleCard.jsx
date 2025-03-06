@@ -5,7 +5,7 @@ function ArticleCard(props){
         <>
         <div className={Style.card}>
         <img src={props.Data.imgUrl} alt="" />
-        <Link to={`Article/${props.Data.title}`}>
+        <Link to={`Article/${props.Data.title}`} state={{id:props.Data.id}}>
         <h2>{props.Data.title}</h2>
          </Link>
         <p className={Style.summary}>{props.Data.summary}</p>
