@@ -1,0 +1,22 @@
+.pageTitle {
+  text-align: center;
+}
+.inputs {
+  border-radius: 10px;
+  margin: 20px 5px;
+  padding: 5px 10px;
+}
+.inputs:focus {
+  box-shadow: 0 0 10px blue;
+  border-radius: 30px;
+}
+.formCon {
+  display: grid;
+  flex-wrap: wrap;
+}
+.subButton {
+  margin: 0 25%;
+  background-color: aqua;
+  padding: 20px 5px;
+  border-radius: 10px;
+}
