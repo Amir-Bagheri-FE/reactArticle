@@ -10,7 +10,7 @@ function SingleArticle() {
   useEffect(() => {
     axios
       .get(`http://localhost:4000/data/${id.state.id}`)
-      .then((result) => setArticleSingle(result.data));
+      .then((result) => setArticleSingle(result.data)).catch(console.error('error accured',error));
   }, [id]);
   return (
     <>

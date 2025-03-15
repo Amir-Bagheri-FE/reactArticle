@@ -12,6 +12,7 @@ function ArticleMaking(){
     }
     function postArticle(){
   axios.post('http://localhost:4000/data',newArticle)
+  .then(alert('Article Published in App')).catch(console.error('error accured',error))
     }
     return(
 <>
